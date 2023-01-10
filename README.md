@@ -1,16 +1,11 @@
-# net_speed_meter
+# Net speed Meter
+It is a mobile application. This application made using flutter. It is use to major data speed and usages.
 
-A NetSpeedMeter application
+## Week 1
+- We discussed about functional and non-functional requirement of application and made SRS.
+- We search about the technologies and decide to use flutter framwork for our application because it meets our requirements.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Week 2
+- Started Creating basic setting page
+  - Theme changing functionality added
+  - Exit functionality
