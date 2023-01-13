@@ -23,7 +23,6 @@ class MyApp extends StatelessWidget {
 }
 class MaterialAppWithTheme extends StatelessWidget {
   const MaterialAppWithTheme({super.key});
-
   @override
   Widget build(BuildContext context) {
     final theme = Provider.of<ThemeChanger>(context);

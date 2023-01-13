@@ -41,13 +41,6 @@ class _SettingScreenState extends State<SettingScreen> {
                   ),
                 ],
               ),
-              const ListTile(
-                leading: Icon(Icons.language),
-                title: Text("Language"),
-                subtitle: Text("English"),
-              ),
-
-              const Divider(),
               ListTile(
                 leading: Icon(
                   (themeProvider.getTheme==lightTheme) ? Icons.bedtime_sharp : Icons.light_mode,

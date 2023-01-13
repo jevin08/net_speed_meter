@@ -27,7 +27,7 @@ class _HomeScreenState extends State<HomeScreen> {
                 ),
               );
             },
-            icon: const   Icon(
+            icon: const Icon(
               Icons.settings
             ),
           )
