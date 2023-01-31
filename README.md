@@ -16,3 +16,9 @@ It is a mobile application. This application made using flutter. It is use to ma
   <img src="https://user-images.githubusercontent.com/99015714/211629471-9628f64b-d18f-481c-9429-cf613b581d1c.png" title="Dark mode - Setting page" alt="Dark mode - Setting page" width="240"/>
   <img src="https://user-images.githubusercontent.com/99015714/211629487-97514bf1-7165-485f-94bd-a414b5f728e5.png" title="Dark mode - Home page" alt="Dark mode - Home page" width="240"/> 
 </div>
+
+## Week 3
+
+- Created Application wise data usages page
+  - wifi / mobile data usage packets shown
+  - refresh button for testing added
